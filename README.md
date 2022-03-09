@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FcknPerf
-- 👀 I’m interested in ... Cryptocurrencies, Crypto Faucets,Crypto mining, Android Applications
-- 🌱 I’m currently learning ... Nodes
+- 👋 Hi, I’m @Perf
+- 👀 I’m interested in ... , Android Applications
+- 🌱 I’m currently learning ... Web3
 - 💞️ I’m looking to collaborate on ... Just learning at this time
 - 📫 How to reach me ... tjamison_2013@yahoo.com 
 
